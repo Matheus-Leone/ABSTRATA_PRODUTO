@@ -14,7 +14,7 @@ Esta atividade é requisito da Avaliação Final
 
 [Foto do Sistema Produtos no WAMP SERVER]
 
-(![BibliotecadeConversões](FotoSistemaVeiculos.jpg))
+(![BibliotecadeConversões](FotoControle_Produto.jpg))
 
 
 ### 📋 Pré-requisitos
